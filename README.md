@@ -1,9 +1,8 @@
 # Bootstrap sb-admin-2 demo for django
 
 ![Register](https://raw.githubusercontent.com/PlatinumYzm/django-demo/master/static/img/register.png)
-
 <br>
-
+<br>
 ![Login](https://raw.githubusercontent.com/PlatinumYzm/django-demo/master/static/img/login.png)
 <br>
 <br>
